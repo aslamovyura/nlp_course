@@ -77,3 +77,4 @@ debian/files
 *.debhelper.log
 week01_embeddings/quora.txt
 *.vec
+*.csv
