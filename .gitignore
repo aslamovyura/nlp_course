@@ -79,3 +79,15 @@ week01_embeddings/quora.txt
 *.vec
 *.csv
 *.json
+week04_seq2seq/1.3.0
+week04_seq2seq/bpe_rules.en
+week04_seq2seq/bpe_rules.ru
+week04_seq2seq/data.txt
+week04_seq2seq/train.bpe.en
+week04_seq2seq/train.bpe.ru
+week04_seq2seq/train.en
+week04_seq2seq/train.ru
+week04_seq2seq/vocab.py
+week04_seq2seq/data.txt
+week04_seq2seq/vocab.py
+*.txt
