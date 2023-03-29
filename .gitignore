@@ -91,3 +91,8 @@ week04_seq2seq/vocab.py
 week04_seq2seq/data.txt
 week04_seq2seq/vocab.py
 *.txt
+demo/model-dict-ent.dat
+demo-1/intent_classifier.dat
+demo-1/intent_classifier.onnx
+demo-1/model-dict.dat
+demo-1/onnx/model.onnx
