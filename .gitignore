@@ -96,3 +96,4 @@ demo-1/intent_classifier.dat
 demo-1/intent_classifier.onnx
 demo-1/model-dict.dat
 demo-1/onnx/model.onnx
+demo/ner_classifier.onnx
