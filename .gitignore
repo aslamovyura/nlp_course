@@ -97,3 +97,15 @@ demo-1/intent_classifier.onnx
 demo-1/model-dict.dat
 demo-1/onnx/model.onnx
 demo/ner_classifier.onnx
+week08_llm/outputs/checkpoint-1000/optimizer.pt
+week08_llm/outputs/checkpoint-1000/pytorch_model.bin
+week08_llm/outputs/checkpoint-1000/rng_state.pth
+week08_llm/outputs/checkpoint-1000/scaler.pt
+week08_llm/outputs/checkpoint-1000/scheduler.pt
+week08_llm/outputs/checkpoint-1000/training_args.bin
+week08_llm/outputs/checkpoint-500/optimizer.pt
+week08_llm/outputs/checkpoint-500/pytorch_model.bin
+week08_llm/outputs/checkpoint-500/rng_state.pth
+week08_llm/outputs/checkpoint-500/scaler.pt
+week08_llm/outputs/checkpoint-500/scheduler.pt
+week08_llm/outputs/checkpoint-500/training_args.bin
