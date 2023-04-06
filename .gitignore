@@ -123,3 +123,4 @@ LLM/outputs/checkpoint-500/scaler.pt
 LLM/outputs/checkpoint-500/scheduler.pt
 LLM/outputs/checkpoint-500/training_args.bin
 LLM/outputs_marketing/checkpoint-9/pytorch_model.bin
+LLM/lora_adapters-30b/adapter_model.bin
