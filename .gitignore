@@ -109,3 +109,17 @@ week08_llm/outputs/checkpoint-500/rng_state.pth
 week08_llm/outputs/checkpoint-500/scaler.pt
 week08_llm/outputs/checkpoint-500/scheduler.pt
 week08_llm/outputs/checkpoint-500/training_args.bin
+LLM/lora_adapters/adapter_model.bin
+LLM/outputs/checkpoint-1000/optimizer.pt
+LLM/outputs/checkpoint-1000/pytorch_model.bin
+LLM/outputs/checkpoint-1000/rng_state.pth
+LLM/outputs/checkpoint-1000/scaler.pt
+LLM/outputs/checkpoint-1000/scheduler.pt
+LLM/outputs/checkpoint-1000/training_args.bin
+LLM/outputs/checkpoint-500/optimizer.pt
+LLM/outputs/checkpoint-500/pytorch_model.bin
+LLM/outputs/checkpoint-500/rng_state.pth
+LLM/outputs/checkpoint-500/scaler.pt
+LLM/outputs/checkpoint-500/scheduler.pt
+LLM/outputs/checkpoint-500/training_args.bin
+LLM/outputs_marketing/checkpoint-9/pytorch_model.bin
