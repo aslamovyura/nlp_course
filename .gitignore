@@ -124,3 +124,9 @@ LLM/outputs/checkpoint-500/scheduler.pt
 LLM/outputs/checkpoint-500/training_args.bin
 LLM/outputs_marketing/checkpoint-9/pytorch_model.bin
 LLM/lora_adapters-30b/adapter_model.bin
+LLM/adapters/gpt-j-6B-marketing/adapter_model.bin
+LLM/adapters/gpt-j-6B-wm/adapter_model.bin
+LLM/adapters/gpt-neox-20B-armm/adapter_model.bin
+LLM/adapters/gpt-neox-20B-wm/adapter_model.bin
+LLM/adapters/lora_adapters/adapter_model.bin
+LLM/adapters/lora_adapters-30b/adapter_model.bin
