@@ -130,3 +130,16 @@ LLM/adapters/gpt-neox-20B-armm/adapter_model.bin
 LLM/adapters/gpt-neox-20B-wm/adapter_model.bin
 LLM/adapters/lora_adapters/adapter_model.bin
 LLM/adapters/lora_adapters-30b/adapter_model.bin
+LLM/adapters/gpt-neox-20B-wm_purch_resp/adapter_model.bin
+LLM/adapters/gpt-neox-20B-wm_list_resp/adapter_model.bin
+LLM/adapters/gpt-neox-20B-armm_list/adapter_model.bin
+LLM/adapters/gpt-neox-20B-armm_list_fix/adapter_model.bin
+LLM/adapters/gpt-neox-20B-armm_req/adapter_model.bin
+LLM/adapters/gpt-neox-20B-armm_req_fix/adapter_model.bin
+LLM/adapters/gpt-neox-20B-wm_list_resp_fix/adapter_model.bin
+LLM/adapters/gpt-neox-20B-wm_purch_resp_fix/adapter_model.bin
+LLM/training/epoch-0.9/adapter_model.bin
+LLM/training/epoch-2.0/adapter_model.bin
+LLM/training/epoch-2.9/adapter_model.bin
+LLM/training/epoch-4.0/adapter_model.bin
+LLM/training/epoch-4.7/adapter_model.bin
